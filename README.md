@@ -6,38 +6,38 @@ Explore a collection of responsive landing pages crafted while mastering Tailwin
 
 ### clipboard
 
-Description: A clean, responsive portfolio page featuring a hero section, about me, and project showcase.
-Live Demo: View Live (Replace with your deployed URL)
-Technologies: HTML, Tailwind CSS, JavaScript
-Features: Responsive grid, hover effects, mobile-first design
-
-### Email subscribe
-
-Description: A product-focused landing page with a hero banner, product cards, and a pricing section.
-Live Demo: View Live (Replace with your deployed URL)
-Technologies: HTML, Tailwind CSS
-Features: Flexbox layout, responsive navigation, Tailwind JIT mode
+- Description: A clean, responsive portfolio page featuring a hero section, about me, and project showcase.
+- Live Demo: View [Live](https://clipboard-landing-page-xi-two.vercel.app/)
+- Technologies: HTML, Tailwind CSS
+- Features: Responsive grid, hover effects, mobile-first design, custom Tailwind config, responsive typography
 
 ### Login modal
 
-Description: A modern blog homepage with a featured post section and sidebar.
-Live Demo: View Live (Replace with your deployed URL)
-Technologies: HTML, Tailwind CSS
-Features: CSS Grid, custom Tailwind config, responsive typography
+- Description: A modern responsive, clean looking login form.
+- Live Demo: View [Live](https://login-modal-swart.vercel.app/)
+- Technologies: HTML, Tailwind CSS
+- Features: CSS Grid, custom Tailwind config, responsive typography
+
+### Email subscribe
+
+- Description: A product-focused landing page with a hero banner, product cards, and a pricing section.
+- Live Demo: View Live (Replace with your deployed URL)
+- Technologies: HTML, Tailwind CSS
+- Features: Flexbox layout
 
 ### Pricing grids
 
-Description: A modern blog homepage with a featured post section and sidebar.
-Live Demo: View Live (Replace with your deployed URL)
-Technologies: HTML, Tailwind CSS
-Features: CSS Grid, custom Tailwind config, responsive typography### Login modal
+- Description: A modern price section of a webpage.
+- Live Demo: View Live (Replace with your deployed URL)
+- Technologies: HTML, Tailwind CSS
+- Features: CSS Grid, custom Tailwind config, responsive typography
 
 ### Product modal
 
-Description: A modern blog homepage with a featured post section and sidebar.
-Live Demo: View Live (Replace with your deployed URL)
-Technologies: HTML, Tailwind CSS
-Features: CSS Grid, custom Tailwind config, responsive typography
+- Description: A simple product description modal.
+- Live Demo: View Live (Replace with your deployed URL)
+- Technologies: HTML, Tailwind CSS
+- Features: CSS Grid, css animation
 
 ## Getting Started
 
